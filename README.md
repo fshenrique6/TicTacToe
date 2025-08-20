@@ -1,6 +1,6 @@
 # 🕹️ Jogo da Velha em Python
 
-Este é um simples jogo da velha (tic-tac-toe) implementado em **Python** para ser jogado diretamente no terminal.  
+Este é um simples jogo da velha implementado em **Python** para ser jogado diretamente no terminal.  
 Dois jogadores se alternam utilizando `X` e `O`, escolhendo as posições de **1 a 9** no tabuleiro até que alguém vença ou dê empate.
 
 ---
